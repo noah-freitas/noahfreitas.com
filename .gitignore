@@ -1,5 +1,7 @@
 # Build stuff
+dist
 node_modules
 
 # Bower Installs
-app/components
+dist/components
+

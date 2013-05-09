@@ -1,0 +1,7 @@
+[{
+  "title": "Fun with LiveScript",
+  "url": "fun-with-livescript",
+  "created": "2013-05-09",
+  "body": "I've recently stumbled upon LiveScript and have really started to like it.  As a quick example, I am working on a JavaScript project for which we need to compute the factors of a number.  While this is not particularly difficult in JavaScript, in LiveScript it becomes incredibly succinct.<br><br>First we define a curried function which returns true if the first parameter is equally divisible by the second:<br><br><code>dividesInto = (x, y) --> x % y is 0</code><br><br>Then we write our factors function which takes a number and returns an array of its factors:<br><br><code>factors = (n) -> [1 to n] |> filter dividesInto n</code><br><br>And that's it!"
+}]
+
