@@ -1,0 +1,17 @@
+{
+  "name": "noahfreitas.com",
+  "version": "0.0.0",
+  "description": "Website for noahfreitas.com.",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "repository": "",
+  "author": "Noah Freitas <noah.j.freitas@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "karma": "~0.8.5",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
