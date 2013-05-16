@@ -2,7 +2,7 @@
   "title": "JavaScript: A Beginning",
   "url": "javascript-beginning",
   "created": "2013-05-14",
-  "body": "<section><h2>Values</h2><p>Values are the \"things\" of programming in JavaScript.  A JavaScript application creates, manipulates, and shares values.</p><p>Values can be grouped according to different criteria:</p><ul><li>Primitive vs. Composite</li><li>Reduced vs. Non-Reduced</li><li>Active vs. Passive</li><li>JavaScript Value Type</li></ul></section>"
+  "body": "<section><h2>Values</h2><p>Values are the \"things\" of programming in JavaScript.  A JavaScript application creates, manipulates, and shares values.</p><p>Values can be grouped in different ways:</p><ul><li>Primitive vs. Composite</li><li>Reduced vs. Unreduced</li><li>Active vs. Passive</li><li>Grouped by JavaScript Value Type</li></ul></section>"
 }, {
   "title": "Fun with LiveScript",
   "url": "fun-with-livescript",
