@@ -1,0 +1,129 @@
+[
+  {
+    "value": "3",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "number"
+    }
+  },
+  {
+    "value": "Math.sqrt",
+    "group": {
+      "pc": "composite",
+      "rd": "reduced",
+      "ap": "active",
+      "js": "object"
+    }
+  },
+  {
+    "value": "'Hello World!'",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "string"
+    }
+  },
+  {
+    "value": "Math.PI",
+    "group": {
+      "pc": "primitive",
+      "rd": "unreduced",
+      "ap": "passive",
+      "js": "number"
+    }
+  },
+  {
+    "value": "3.214",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "number"
+    }
+  },
+  {
+    "value": "Math.abs(-3)",
+    "group": {
+      "pc": "primitive",
+      "rd": "unreduced",
+      "ap": "passive",
+      "js": "number"
+    }
+  },
+  {
+    "value": "true",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "boolean"
+    }
+  },
+  {
+    "value": "false",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "boolean"
+    }
+  },
+  {
+    "value": "undefined",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "undefined"
+    }
+  },
+  {
+    "value": "null",
+    "group": {
+      "pc": "primitive",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "null"
+    }
+  },
+  {
+    "value": "typeof 3",
+    "group": {
+      "pc": "primitive",
+      "rd": "unreduced",
+      "ap": "passive",
+      "js": "string"
+    }
+  },
+  {
+    "value": "console.log('test')",
+    "group": {
+      "pc": "primitive",
+      "rd": "unreduced",
+      "ap": "passive",
+      "js": "string"
+    }
+  },
+  {
+    "value": "Math",
+    "group": {
+      "pc": "composite",
+      "rd": "reduced",
+      "ap": "passive",
+      "js": "object"
+    }
+  },
+  {
+    "value": "Object",
+    "group": {
+      "pc": "composite",
+      "rd": "reduced",
+      "ap": "active",
+      "js": "object"
+    }
+  }
+]
+
