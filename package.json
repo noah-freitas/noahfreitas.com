@@ -12,6 +12,7 @@
   "dependencies": {
     "karma": "~0.8.5",
     "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "socket.io": "~0.9.14",
+    "prelude-ls": "~1.0.0"
   }
 }

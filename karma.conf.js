@@ -10,8 +10,9 @@ basePath = '';
 files = [
   JASMINE,
   JASMINE_ADAPTER,
-  'app/components/angular/angular.js',
-  'app/components/angular-mocks/angular-mocks.js',
+  'dist/components/prelude-ls/browser/prelude-browser-min.js',
+  'dist/components/angular/angular.js',
+  'dist/components/angular-mocks/angular-mocks.js',
   'app/scripts/**/*.ls',
   'test/**/*.ls'
 ];
