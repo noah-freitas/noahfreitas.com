@@ -1,4 +1,9 @@
 [{
+  "title": "Private Web",
+  "url": "private-web",
+  "created": "2013-06-09",
+  "body": "<section><h2>A Proposal for Private Spaces on the Web</h2><p>In light of the developing information about the NSA's PRISM program I propose that <em>the web should have both public and privates spaces</em>.</p><p>I'll start with an analogy: real-time cameras in public spaces don't bother me.  A public space does not come with a reasonable expectation of privacy.  Moments of privacy are possible: a street can be empty or a camera broken, but one cannot expect privacy in a public space.</p><p>Real-time cameras in my home would bother me.  My home is a private space: I expect what I do in my home to be private, shared with those I choose.</p><p>The government's response to the PRISM program revelations implies that they believe the web as a whole should be a public space.</p><p>I assert that a web with both private and public spaces is better and more useful than a web with only public space.</p><p>A private web is the promise of cryptography.  I propose that all encrypted messages be considered private with all priveleges and expectations thereof.</p></section>"
+},{
   "title": "JavaScript: A Beginning",
   "url": "javascript-beginning",
   "created": "2013-05-14",
