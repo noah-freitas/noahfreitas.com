@@ -1,4 +1,10 @@
 [{
+  "title" : "JavaScript Coercion",
+  "url"   : "javascript-coercion",
+  "created" : "2014-11-9",
+  "body" : "<style>     td, th {         font-family : monospace;         width       : 50% !important;     } </style> <label>     Coerce values to     <select id=\"choose-coercion\" autofocus class=\"form-control\">         <option value=\"none\" selected>Don't Coerce</option>         <option value=\"number\">Number</option>         <option value=\"boolean\">Boolean</option>         <option value=\"string\">String</option>         <option value=\"object\">Object</option>     </select> </label> <table class=\"table\">     <thead>         <th>Original Value</th>         <th>Coerced Value</th>     </thead>     <tbody id=\"coercions\"></tbody> </table>",
+  "scripts" : ["/js/js-coercions.js"]
+}, {
   "title": "Marlowe; November 30th, 2009 - May 24th, 2014",
   "url": "marlowe",
   "created": "2014-05-26",
@@ -24,4 +30,3 @@
   "created": "2013-05-09",
   "body": "I've recently stumbled upon LiveScript and have really started to like it.  As a quick example, I am working on a JavaScript project for which we need to compute the factors of a number.  While this is not particularly difficult in JavaScript, in LiveScript it becomes incredibly succinct.<br><br>First we define a curried function which returns true if the first parameter is equally divisible by the second:<br><br><code>dividesInto = (x, y) --> x % y is 0</code><br><br>Then we write our factors function which takes a number and returns an array of its factors:<br><br><code>factors = (n) -> [1 to n] |> filter dividesInto n</code><br><br>And that's it!"
 }]
-
